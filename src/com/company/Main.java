@@ -19,9 +19,10 @@ public class Main {
 
         listTwo.addAll(set);
 
-        for (int i : listTwo) {
+        /* for (int i : listTwo) {
             System.out.println(i);
         }
+        */
 
         for (int i = 1; i < list.length; i++) {
             value = list[i];
